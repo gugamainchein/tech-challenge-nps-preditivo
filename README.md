@@ -1,8 +1,7 @@
 # Tech Challenge — Fase 1 | Case NPS Preditivo
 
-**Grupo:** Gustavo Mainchein, Gustavo Lopes, Gustavo Valentim
-**Curso:** POSTECH — FIAP
-**Prazo de entrega:** 03/11/2026
+- **Grupo:** Gustavo Mainchein (RM377234), Gustavo Lopes, Gustavo Valentim
+- **Curso:** POSTECH — FIAP
 
 ## Objetivo do projeto
 
