@@ -1,6 +1,6 @@
 # Tech Challenge — Fase 1 | Case NPS Preditivo
 
-- **Grupo:** Gustavo Mainchein (RM377234), Gustavo Lopes (RM377947), Gustavo Valentim(RM377956)
+- **Grupo:** Gustavo Mainchein (RM377234), Gustavo Lopes (RM377947), Gustavo Valentim(RM377956), Luana Barbosa (RM377490)
 - **Curso:** POSTECH — FIAP
 
 ## Objetivo do projeto
